@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shootheef.pyowa.org/sitemap.xml
